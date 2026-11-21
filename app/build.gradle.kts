@@ -3,11 +3,11 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 android {
-    namespace = "com.wasf.mygame"
+    namespace = "com.wasf.desertquest"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.wasf.mygame"
-        minSdk = 26
+        applicationId = "com.wasf.desertquest"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
