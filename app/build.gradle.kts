@@ -3,11 +3,11 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 android {
-    namespace = "com.wasf.myapp"
+    namespace = "com.wasf.mygame"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.wasf.myapp"
-        minSdk = 24
+        applicationId = "com.wasf.mygame"
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
